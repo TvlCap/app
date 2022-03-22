@@ -1,6 +1,10 @@
 _schema-version: '3.2'
 ID: app
-version: 3.1.0
+<<<<<<< HEAD
+version: 3.4.0
+=======
+version: 3.3.0
+>>>>>>> 09509eb3e560aec53631b390a5b753a030a4ba2a
 
 parameters:
   enable-parallel-deployments: true
